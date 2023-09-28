@@ -1,0 +1,12 @@
+@model Eshop.Web.Entities.Account.User
+@inject IConfiguration Configuration
+
+@{
+    var domainName = Configuration.GetValue<string>("DomainName");
+}
+
+<h2>فعالسازی حساب کاربری</h2>
+<p>برای فعالسازی حساب کاربری خود روی لینک زیر کلیک کنید</p>
+<p>
+    <a href="@domainName/activate-account/@Model.EmailActiveCode">فعالسازی حساب کاربری</a>
+</p>

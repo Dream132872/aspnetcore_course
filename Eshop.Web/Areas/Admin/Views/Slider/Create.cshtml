@@ -1,0 +1,52 @@
+@model Eshop.Web.ViewModels.Sliders.CreateSliderViewModel
+@{
+    ViewData["Title"] = "افزودن اسلایدر";
+}
+
+@section FooterExtraReferences
+{
+    <partial name="_ValidationScriptsPartial"/>
+}
+
+<form method="post" asp-area="Admin" asp-controller="Slider" asp-action="Create" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-9">
+            <div class="widget">
+                <div class="widget-header bordered-bottom bordered-blue">
+                    <span class="widget-caption">@ViewData["Title"]</span>
+                </div>
+                <div class="widget-body">
+                    <div>
+                        <div class="form-group">
+                            <label for="Title">عنوان</label>
+                            <input asp-for="Title" class="form-control">
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Url">آدرس url</label>
+                            <input asp-for="Url" class="form-control">
+                            <span asp-validation-for="Url" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Description">توضیحات</label>
+                            <input asp-for="Description" class="form-control">
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-blue">ثبت اطلاعات</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="widget">
+                <div class="widget-header bordered-bottom bordered-blue">
+                    <span class="widget-caption">@ViewData["Title"]</span>
+                </div>
+                <div class="widget-body">
+                    <img ImageFile="1" src="/shared/images/default-avatar.png" alt="avatar" style="width: 100%">
+                    <input ImageInput="1" type="file" name="image"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

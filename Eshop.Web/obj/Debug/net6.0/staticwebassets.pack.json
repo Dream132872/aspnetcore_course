@@ -1,0 +1,2373 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eshop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Eshop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\4095-rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095-rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\4095-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095-rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\4095-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095.css",
+      "PackagePath": "staticwebassets\\admin\\css\\4095.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\4095.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095.less",
+      "PackagePath": "staticwebassets\\admin\\css\\4095.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\4095.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\4095.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\400-500.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\400-500.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\accordions.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\accordions.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\alerts.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\animations.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\animations.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\body.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\body.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\breadcrumbs.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\buttons.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\charts.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\charts.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\chat.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\chat.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\checkbox-radiobox.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\checkbox-radiobox.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\colorpicker.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\colorpicker.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\colors.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\colors.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\comment.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\comment.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\dashboard.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\dashboard.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\databoxes.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\databoxes.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\datepicker.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\datepicker.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\daterangepicker.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\daterangepicker.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\dropdowns.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\dropzone.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\dropzone.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\editors.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\editors.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\fonts.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\fonts.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\forms-inputs.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\forms-inputs.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\fullcalendar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\helpers.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\helpers.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\invoice.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\invoice.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\labels-badges.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\labels-badges.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\loading.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\loading.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\lockscreen.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\login.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\login.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\mail.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\mail.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\main-container.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\main-container.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\modals.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\modals.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\navbar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\navbar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\nestable-lists.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\nestable-lists.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\notifications.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\notifications.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\orders.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\orders.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\page-content.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\page-content.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\page-header-body.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\page-header-body.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\pagination.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\popovers.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\popovers.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\pricing.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\pricing.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\profile.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\profile.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\progressbars.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\progressbars.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\register.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\register.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\search-help-bar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\search-help-bar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\select2.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\select2.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\sidebar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\sidebar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\sliders.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\sliders.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\spaces.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\spaces.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\spinners.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\spinners.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\switches.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\switches.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tables.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tables.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tabs.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tabs.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tagsinput.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tagsinput.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tasks.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tasks.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tickets.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tickets.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\timeline.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\timeline.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\timepicker.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\timepicker.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\tooltips.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\tooltips.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\treeview.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\treeview.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\typography.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\typography.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\validator.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\validator.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\variables.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\wells.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\wells.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\widget.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\widget.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-less\\wizards.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-less\\wizards.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond-rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond.css",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond.less",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\beyond.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\beyond.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\.csscomb.json",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\.csscomb.json"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\.csslintrc",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\.csslintrc"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\alerts.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\badges.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\badges.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\bootstrap.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\breadcrumbs.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\button-groups.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\button-groups.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\buttons.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\carousel.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\carousel.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\close.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\close.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\code.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\code.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\component-animations.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\component-animations.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\dropdowns.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\forms.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\glyphicons.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\glyphicons.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\grid.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\input-groups.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\input-groups.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\jumbotron.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\jumbotron.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\labels.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\list-group.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\media.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\media.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\alerts.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\alerts.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\background-variant.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\background-variant.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\border-radius.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\border-radius.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\buttons.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\buttons.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\center-block.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\center-block.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\clearfix.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\clearfix.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\forms.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\forms.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\gradients.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\gradients.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\grid-framework.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\grid-framework.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\grid.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\grid.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\hide-text.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\hide-text.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\image.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\image.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\labels.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\labels.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\list-group.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\list-group.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\nav-divider.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\nav-divider.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\nav-vertical-align.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\nav-vertical-align.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\opacity.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\opacity.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\pagination.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\panels.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\progress-bar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\progress-bar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\reset-filter.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\reset-filter.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\reset-text.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\reset-text.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\resize.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\resize.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\responsive-visibility.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\responsive-visibility.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\size.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\size.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\tab-focus.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\tab-focus.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\table-row.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\table-row.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\text-emphasis.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\text-emphasis.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\text-overflow.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\text-overflow.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\mixins\\vendor-prefixes.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\mixins\\vendor-prefixes.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\modals.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\modals.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\navbar.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\navbar.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\navs.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\navs.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\normalize.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\normalize.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\pager.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\pager.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\pagination.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\pagination.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\panels.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\panels.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\popovers.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\popovers.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\print.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\print.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\progress-bars.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\progress-bars.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\responsive-embed.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\responsive-embed.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\responsive-utilities.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\responsive-utilities.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\scaffolding.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\scaffolding.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\tables.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\tables.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\theme.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\theme.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\thumbnails.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\thumbnails.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\tooltip.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\tooltip.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\type.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\type.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\utilities.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\utilities.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\variables.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\variables.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-less\\wells.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-less\\wells.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\alerts-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\alerts-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\badges-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\badges-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\button-groups-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\button-groups-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\carousel-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\carousel-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\close-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\close-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\dropdowns-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\dropdowns-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\forms-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\forms-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\grid-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\grid-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\input-groups-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\input-groups-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\list-group-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\list-group-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\media-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\media-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\merged-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\merged-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins\\gradients-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins\\gradients-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins\\grid-framework-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins\\grid-framework-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins\\grid-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins\\grid-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\mixins\\pagination-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\mixins\\pagination-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\modals-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\modals-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\navbar-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\navbar-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\navs-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\navs-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\normalize-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\normalize-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\pager-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\pager-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\pagination-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\pagination-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\panels-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\panels-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\popovers-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\popovers-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\progress-bars-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\progress-bars-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\responsive-embed-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\responsive-embed-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\tables-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\tables-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\type-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\type-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\utilities-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\utilities-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl-less\\variables-rtl.less",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl-less\\variables-rtl.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\dataTables.bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\css\\dataTables.bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\demo.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\demo.less",
+      "PackagePath": "staticwebassets\\admin\\css\\demo.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\demo.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\demo.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\other-less\\LessHat.css",
+      "PackagePath": "staticwebassets\\admin\\css\\other-less\\LessHat.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\other-less\\lesshat.less",
+      "PackagePath": "staticwebassets\\admin\\css\\other-less\\lesshat.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\other-less\\lesshat.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\other-less\\lesshat.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\Blue.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\Blue.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\Blue.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\Blue.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\azure.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\azure.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\azure.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\azure.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\azure.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\azure.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\azure.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\azure.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\black.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\black.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\black.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\black.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\black.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\black.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\black.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\black.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\blue.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\blue.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\blue.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\blue.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkblue.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkblue.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkblue.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkblue.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkblue.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkblue.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkblue.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkblue.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkred.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkred.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkred.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkred.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkred.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkred.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\darkred.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\darkred.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\deepblue.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\deepblue.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\deepblue.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\deepblue.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\deepblue.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\deepblue.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\deepblue.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\deepblue.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\gray.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\gray.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\gray.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\gray.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\gray.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\gray.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\gray.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\gray.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\green.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\green.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\green.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\green.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\green.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\green.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\green.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\green.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\orange.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\orange.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\orange.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\orange.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\orange.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\orange.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\orange.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\orange.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\pink.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\pink.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\pink.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\pink.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\pink.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\pink.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\pink.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\pink.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\purple.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\purple.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\purple.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\purple.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\purple.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\purple.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\purple.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\purple.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\skins-mixins.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\skins-mixins.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\skins-mixins.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\skins-mixins.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\skins-mixins.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\skins-mixins.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\skins-mixins.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\skins-mixins.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\teal.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\teal.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\teal.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\teal.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\teal.less",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\teal.less"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\skins\\teal.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\skins\\teal.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\typicons.css",
+      "PackagePath": "staticwebassets\\admin\\css\\typicons.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\typicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\typicons.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\admin\\css\\weather-icons.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\BYekan.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\BYekan.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\WeatherIcons-Regular.otf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\WeatherIcons-Regular.otf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\YekanWeb-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\YekanWeb-Bold.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\YekanWeb-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\YekanWeb-Regular.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\typicons.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\typicons.eot"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\typicons.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\typicons.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\typicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\typicons.ttf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\typicons.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\typicons.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\angle-down.png",
+      "PackagePath": "staticwebassets\\admin\\img\\angle-down.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\app-45616.png",
+      "PackagePath": "staticwebassets\\admin\\img\\app-45616.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\app.png",
+      "PackagePath": "staticwebassets\\admin\\img\\app.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\attach-blue.png",
+      "PackagePath": "staticwebassets\\admin\\img\\attach-blue.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\attach-green.png",
+      "PackagePath": "staticwebassets\\admin\\img\\attach-green.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\attach-red.png",
+      "PackagePath": "staticwebassets\\admin\\img\\attach-red.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\attach-yellow.png",
+      "PackagePath": "staticwebassets\\admin\\img\\attach-yellow.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Javi-Jimenez.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Javi-Jimenez.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\John-Smith.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\John-Smith.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Lee-Munroe.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Lee-Munroe.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Matt-Cheuvront.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Matt-Cheuvront.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Nicolai-Larson.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Nicolai-Larson.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Osvaldus-Valutis.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Osvaldus-Valutis.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Sergey-Azovskiy.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Sergey-Azovskiy.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\Stephanie-Walter.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\Stephanie-Walter.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\adam-jansen.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\adam-jansen.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\bing.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\bing.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\avatars\\divyia.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\avatars\\divyia.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\jquery.minicolors.png",
+      "PackagePath": "staticwebassets\\admin\\img\\jquery.minicolors.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\logo-inverted.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-inverted.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\logo-rtl.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-rtl.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\admin\\img\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\img\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\admin\\img\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\admin\\img\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\admin\\img\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\temp1.png",
+      "PackagePath": "staticwebassets\\admin\\img\\temp1.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\img\\tree-icons.png",
+      "PackagePath": "staticwebassets\\admin\\img\\tree-icons.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\beyond.js",
+      "PackagePath": "staticwebassets\\admin\\js\\beyond.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\beyond.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\beyond.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\beyond.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\beyond.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\bootbox\\bootbox.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\bootbox\\bootbox.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\bootbox\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\bootbox\\bootbox.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\bootbox\\bootbox.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\bootbox\\bootbox.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\chartjs\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\chartjs\\Chart.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\chartjs\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\chartjs\\chartjs-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\easypiechart\\easypiechart-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\easypiechart\\easypiechart-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\easypiechart\\jquery.easypiechart.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\flot-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\flot-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.axislabels.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.axislabels.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.fillbetween.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.fillbetween.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.orderBars.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.orderBars.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.stack.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.stack.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.tooltip.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.tooltip.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\flot\\jquery.flot.tooltip.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\flot\\jquery.flot.tooltip.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\morris\\morris-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\morris\\morris-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\morris\\raphael-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\morris\\raphael-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\charts\\sparkline\\sparkline-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts\\sparkline\\sparkline-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\colorpicker\\jquery.minicolors.js",
+      "PackagePath": "staticwebassets\\admin\\js\\colorpicker\\jquery.minicolors.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\colorpicker\\jquery.minicolors.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\colorpicker\\jquery.minicolors.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\ZeroClipboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\ZeroClipboard.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.tableTools.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.tableTools.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.tableTools.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.tableTools.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\dataTables.tableTools.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\dataTables.tableTools.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\datatables-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\datatables-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datatable\\jquery.dataTables.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\datatable\\jquery.dataTables.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\bootstrap-timepicker.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\bootstrap-timepicker.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\moment.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\moment.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\datetime\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datetime\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\editors\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editors\\summernote\\summernote.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\editors\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editors\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\editors\\wysiwyg\\bootstrap-wysiwyg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editors\\wysiwyg\\bootstrap-wysiwyg.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\editors\\wysiwyg\\jquery.hotkeys.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editors\\wysiwyg\\jquery.hotkeys.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\editors\\wysiwyg\\prettify.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editors\\wysiwyg\\prettify.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\treeview\\tree-custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\treeview\\tree-custom.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\treeview\\tree-custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\treeview\\tree-custom.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\treeview\\tree-custom.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\treeview\\tree-custom.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\treeview\\treeview-init.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\treeview\\treeview-init.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\wizard\\wizard-custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\wizard\\wizard-custom.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\wizard\\wizard-custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\wizard\\wizard-custom.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fuelux\\wizard\\wizard-custom.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\fuelux\\wizard\\wizard-custom.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fullcalendar\\jquery-ui.custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar\\jquery-ui.custom.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\fullcalendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\fullcalendar\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\inputmask\\jasny-bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\inputmask\\jasny-bootstrap.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\inputmask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\inputmask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\jquery-ui-1.10.4.custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-ui-1.10.4.custom.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\admin\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\nestable\\jquery.nestable.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\nestable\\jquery.nestable.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\select2\\select2.full.js",
+      "PackagePath": "staticwebassets\\admin\\js\\select2\\select2.full.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\skins.js",
+      "PackagePath": "staticwebassets\\admin\\js\\skins.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\skins.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\skins.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\skins.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\skins.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slider\\jQRangeSlider\\jQAllRangeSliders-withRuler-min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slider\\jQRangeSlider\\jQAllRangeSliders-withRuler-min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slider\\jQRangeSlider\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slider\\jQRangeSlider\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slider\\jquery.nouislider.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slider\\jquery.nouislider.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\slimscroll\\jquery.slimscroll.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\slimscroll\\jquery.slimscroll.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\tagsinput\\bootstrap-tagsinput.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\tagsinput\\bootstrap-tagsinput.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\textarea\\jquery.autosize.js",
+      "PackagePath": "staticwebassets\\admin\\js\\textarea\\jquery.autosize.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\textarea\\jquery.autosize.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\textarea\\jquery.autosize.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\toastr\\toastr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\toastr\\toastr.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\toastr\\toastr.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\toastr\\toastr.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\validation\\bootstrapValidator.js",
+      "PackagePath": "staticwebassets\\admin\\js\\validation\\bootstrapValidator.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\validation\\bootstrapValidator.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\validation\\bootstrapValidator.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\js\\validation\\bootstrapValidator.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\validation\\bootstrapValidator.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\sound\\alert.mp3",
+      "PackagePath": "staticwebassets\\admin\\sound\\alert.mp3"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\swf\\copy_csv_xls.swf",
+      "PackagePath": "staticwebassets\\admin\\swf\\copy_csv_xls.swf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\admin\\swf\\copy_csv_xls_pdf.swf",
+      "PackagePath": "staticwebassets\\admin\\swf\\copy_csv_xls_pdf.swf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\04de73f28fa84f5ba40d996e41dabe35.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\04de73f28fa84f5ba40d996e41dabe35.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\3d04a9aa0bb3445f88253dc1bf092f7d.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\3d04a9aa0bb3445f88253dc1bf092f7d.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\4e829f07fc3b48eca799b28a1dc6f37e.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\4e829f07fc3b48eca799b28a1dc6f37e.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\50f57f864a274731b6cd62aa47e92041.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\50f57f864a274731b6cd62aa47e92041.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\a2ff91fd01404bc4815820893864e0ec.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\a2ff91fd01404bc4815820893864e0ec.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\a45a779b223d45fcbe16f7da54a48330.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\a45a779b223d45fcbe16f7da54a48330.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\e24129debaad48be8dcf3599447c6669.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\e24129debaad48be8dcf3599447c6669.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\04de73f28fa84f5ba40d996e41dabe35.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\04de73f28fa84f5ba40d996e41dabe35.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\3d04a9aa0bb3445f88253dc1bf092f7d.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\3d04a9aa0bb3445f88253dc1bf092f7d.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\4e829f07fc3b48eca799b28a1dc6f37e.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\4e829f07fc3b48eca799b28a1dc6f37e.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\50f57f864a274731b6cd62aa47e92041.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\50f57f864a274731b6cd62aa47e92041.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\a2ff91fd01404bc4815820893864e0ec.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\a2ff91fd01404bc4815820893864e0ec.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\a45a779b223d45fcbe16f7da54a48330.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\a45a779b223d45fcbe16f7da54a48330.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\content\\images\\sliders\\thumbs\\e24129debaad48be8dcf3599447c6669.jpg",
+      "PackagePath": "staticwebassets\\content\\images\\sliders\\thumbs\\e24129debaad48be8dcf3599447c6669.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\shared\\images\\default-avatar.png",
+      "PackagePath": "staticwebassets\\shared\\images\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\shared\\js\\modules.js",
+      "PackagePath": "staticwebassets\\shared\\js\\modules.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\animate.css",
+      "PackagePath": "staticwebassets\\site\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\site\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\site\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\main.css",
+      "PackagePath": "staticwebassets\\site\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\site\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\site\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\site\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\BYekan.eot",
+      "PackagePath": "staticwebassets\\site\\fonts\\BYekan.eot"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\BYekan.svg",
+      "PackagePath": "staticwebassets\\site\\fonts\\BYekan.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\BYekan.ttf",
+      "PackagePath": "staticwebassets\\site\\fonts\\BYekan.ttf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\BYekan.woff",
+      "PackagePath": "staticwebassets\\site\\fonts\\BYekan.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\site\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\site\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\site\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\site\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\site\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\site\\images\\404\\404.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\blog\\Customer.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\blog\\Customer.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\blog\\blog-one.psd",
+      "PackagePath": "staticwebassets\\site\\images\\blog\\blog-one.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\site\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\cart\\Card.psd",
+      "PackagePath": "staticwebassets\\site\\images\\cart\\Card.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\cart\\one.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart\\one.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\cart\\three.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart\\three.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\cart\\two.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart\\two.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\About-Logo.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\About-Logo.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Gallery.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Gallery.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Gallery.psd",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Gallery.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Map.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Map.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Slider-01.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Slider-01.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Slider.psd",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Slider.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Tabs.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Tabs.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\Tabs.psd",
+      "PackagePath": "staticwebassets\\site\\images\\home\\Tabs.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\logo.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\map.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\new.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\product.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\product.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\product1.psd",
+      "PackagePath": "staticwebassets\\site\\images\\home\\product1.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\sale.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\site\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Bale.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Bale.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Instagram.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Instagram.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Main.psd",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Main.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Similar.psd",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Similar.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Socials.psd",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Socials.psd"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Soroush.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Soroush.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\Telegram.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\Telegram.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\new.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\new.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\images\\shop\\product.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\shop\\product.jpg"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\site\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\contact.js",
+      "PackagePath": "staticwebassets\\site\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\site\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\site\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\site\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\site\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\site\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\main.js",
+      "PackagePath": "staticwebassets\\site\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Archive\\Record\\Academy\\ASP_NET_CORE\\14020422\\projects\\EshopProject\\Eshop\\Eshop.Web\\wwwroot\\site\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\site\\js\\price-range.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Eshop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Eshop.Web.props",
+      "PackagePath": "build\\Eshop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Eshop.Web.props",
+      "PackagePath": "buildMultiTargeting\\Eshop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Eshop.Web.props",
+      "PackagePath": "buildTransitive\\Eshop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

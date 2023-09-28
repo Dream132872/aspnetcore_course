@@ -1,0 +1,108 @@
+@using Eshop.Web.Utilities
+@using Eshop.Web.ViewModels.Sliders
+@model FilterSlidersViewModel
+
+
+<form method="get" id="filter-form">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="widget">
+                <div class="widget-header bordered-bottom bordered-blue">
+                    <span class="widget-caption">Basic Form</span>
+                </div>
+                <div class="widget-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <a class="btn btn-success btn-block" asp-area="Admin" asp-controller="Slider" asp-action="Create">افزودن اسلایدر جدید</a>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">عنوان</label>
+                            <input class="form-control" asp-for="Title">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">آدرس url</label>
+                            <input class="form-control" asp-for="Url">
+                        </div>
+                        <button type="submit" class="btn btn-blue">جستجو</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="well with-header with-footer">
+                <div class="header bordered-success">
+                    لیست اسلایدرها
+                </div>
+                <div class="table-scrollable">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                        <tr>
+                            <th scope="col">تصویر</th>
+                            <th scope="col">عنوان</th>
+                            <th scope="col">دستورات</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @if (Model.Entities.Any())
+                        {
+                            foreach (var slider in Model.Entities)
+                            {
+                                <tr id="slider-item-@slider.Id">
+                                    <td>
+                                        <img src="@(PathTools.SliderImageThumbnail + slider.Image)" style="width: 80px" alt="">
+                                    </td>
+                                    <td>
+                                        @slider.Title
+                                    </td>
+                                    <td>
+                                        <a asp-area="Admin" asp-controller="Slider" asp-action="Edit" asp-route-id="@slider.Id"
+                                           class="btn btn-warning btn-circle btn-xs">
+                                            <i class="glyphicon glyphicon-edit"></i>
+                                        </a>
+                                        <a onclick="deleteSlider(@slider.Id)" class="btn btn-danger btn-circle btn-xs">
+                                            <i class="glyphicon glyphicon-trash"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="footer">
+                    <partial name="_AdminPagingPartial" model="@Model.GetCurrentPaging()"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section FooterExtraReferences
+{
+    <script>
+        function deleteSlider(sliderId){
+            Swal.fire({
+              title: 'آیا اطمینان دارید؟',
+              text: "پس از حذف قابلیت بازگردانی وجود ندارد",
+              icon: 'warning',
+              showCancelButton: true,
+              confirmButtonColor: '#3085d6',
+              cancelButtonColor: '#d33',
+              confirmButtonText: 'حذفش کن',
+              cancelButtonText: 'بیخیال'
+            }).then((result) => {
+              if (result.isConfirmed) {
+                $.get('/Admin/Slider/DeleteSlider/' + sliderId).then(res => {
+                    if (res.status === 'success'){
+                        Swal.fire('حذف شد!', 'اطلاعات مورد نظر شما با موفقیت حذف شد','success');
+                        $('#slider-item-'+sliderId).fadeOut();
+                    }    
+                });
+              }
+            })
+        }
+    </script>
+}

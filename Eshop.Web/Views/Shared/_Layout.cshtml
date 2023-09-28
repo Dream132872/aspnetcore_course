@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه اصلی | فروشگاه کارزیبا</title>
+    <partial name="_HeaderReferences"/>
+    @RenderSection("ExtraHeaderReferences", false)
+</head>
+<body>
+@await Component.InvokeAsync("SiteHeader")
+@RenderBody()
+@await Component.InvokeAsync("SiteFooter")
+<partial name="_FooterReferences"/>
+@RenderSection("ExtraFooterReferences", false)
+</body>
+</html>

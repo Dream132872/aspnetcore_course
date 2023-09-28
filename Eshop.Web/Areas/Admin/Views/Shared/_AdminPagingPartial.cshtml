@@ -1,0 +1,32 @@
+@model Eshop.Web.ViewModels.Pagination.BasePaging
+
+<input type="hidden" asp-for="Page" id="filter-form-page">
+<div style="display: flex; justify-content: space-between; align-items: center">
+    <ul class="pagination">
+        @if (Model.HasPreviousPage)
+        {
+            <li onclick="fillPage(@Model.PreviousPage)">
+                <a>«</a>
+            </li>
+        }
+        @for (int i = Model.StartPage; i <= Model.EndPage; i++)
+        {
+            <li onclick="fillPage(@i)" class="@(Model.Page == i ? "active" : "")">
+                <a>@i</a>
+            </li>
+        }
+
+        @if (Model.HasNextPage)
+        {
+            <li onclick="fillPage(@Model.NextPage)">
+                <a>»</a>
+            </li>
+        }
+    </ul>
+    <select asp-for="Take" id="filter-form-take">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="5">5</option>
+        <option value="10">10</option>
+    </select>
+</div>
